@@ -1,0 +1,17 @@
+.bigImg {
+  width: 90%;
+  height: 80%;
+}
+.bgContainer {
+  padding-left: 50px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  height: 100vh;
+}
+
+.imageContainerBox {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+}

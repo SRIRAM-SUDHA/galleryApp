@@ -1,0 +1,10 @@
+.imageContainer {
+  opacity: 0.5;
+  list-style-type: none;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.clearImg {
+  opacity: 1;
+}
